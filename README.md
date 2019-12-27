@@ -1,2 +1,5 @@
 # EnronMailAnalysis
-USML project on Topic Modeling
+
+In the year 2000, Enron was one of the largest energy companies in America. However, after being outed for fraud, it spiralled downwards into bankruptcy within a year making it one of the largest corporate meltdowns in history. After it’s downfall, Federal Energy Regulatory Commission made their data (consisting of 0.5 Million messages exchanged across 150 senior officials) public to aid in ongoing investigations. The goal of our project is to apply Topic Modeling to categorize emails into topics and highlight most commonly discussed topics among employees.
+
+By categorizing emails into set of topics, we might be able to detect some anomalous patterns (since the company was called out for fraudulent activities) within the emails, that might have led to further disruptions within the company. While our analysis, would be very specific to the Enron corpus, but this could further be generalised for other organisations, for early detection of anomalous mail exchanges (if any) within employees. This can also help in mailbox usage optimization technique such as flagging of redundant emails.
